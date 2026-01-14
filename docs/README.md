@@ -57,10 +57,9 @@ Durante o projeto, surgiu a necessidade de adicionar prioridade às tarefas, per
 
 Essa mudança foi registrada:
 - No quadro Kanban (novo card)
-- No histórico de commits
+- No histórico de commits.
 
 # GitHub Projects
 
 A gestão das tarefas do projeto foi realizada por meio do GitHub Projects, utilizando um quadro Kanban com as colunas A Fazer, Em Progresso e Concluído.
 https://github.com/users/ysabelle-a/projects/1/views/1
-oi

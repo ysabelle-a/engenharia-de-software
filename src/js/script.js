@@ -66,3 +66,9 @@ function clearForm() {
     document.getElementById("taskTitle").value = "";
     document.getElementById("taskDescription").value = "";
 }
+
+function soma(a, b) {
+  return a + b;
+}
+
+module.exports = { soma };
