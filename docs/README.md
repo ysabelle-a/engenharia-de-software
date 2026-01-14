@@ -63,3 +63,4 @@ Essa mudança foi registrada:
 
 A gestão das tarefas do projeto foi realizada por meio do GitHub Projects, utilizando um quadro Kanban com as colunas A Fazer, Em Progresso e Concluído.
 https://github.com/users/ysabelle-a/projects/1/views/1
+teste teste
